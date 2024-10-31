@@ -9,4 +9,4 @@
 #not every image will need an upgrade if it dosent need a upgrade 
 #dont run the following command if it dosent need an upgrade
     
-    sudo apt upgrade
+    sudo apt upgrade asdf
